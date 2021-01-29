@@ -60,7 +60,7 @@ gitalk:
   clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
   clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
   repo: lihuanbi.github.io    #仓库名称
-  owner: lihuanb    # github用户名
+  owner: lihuanbi    # github用户名
   admin: RainbomSea
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
