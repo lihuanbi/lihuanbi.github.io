@@ -87,7 +87,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: " ",
+        href: " "
     }
 ]
