@@ -55,7 +55,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 # Gitalk
-var title = location.pathname.substr(0, 50);
+
 gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: b98cd5f7bba686ebc99d                            #生成的clientID
